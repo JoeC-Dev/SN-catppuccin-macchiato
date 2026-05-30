@@ -1,34 +1,34 @@
 :root {
-    /* Catppuccin Mocha palette */
-    --ctp-base: #1e1e2e;
-    --ctp-mantle: #181825;
-    --ctp-crust: #11111b;
-    --ctp-surface0: #313244;
-    --ctp-surface1: #45475a;
-    --ctp-surface2: #585b70;
-    --ctp-overlay0: #6c7086;
-    --ctp-overlay1: #7f849c;
-    --ctp-overlay2: #9399b2;
-    --ctp-subtext0: #a6adc8;
-    --ctp-subtext1: #bac2de;
-    --ctp-text: #cdd6f4;
-    --ctp-lavender: #b4befe;
-    --ctp-blue: #89b4fa;
-    --ctp-sapphire: #74c7ec;
-    --ctp-sky: #89dceb;
-    --ctp-teal: #94e2d5;
-    --ctp-green: #a6e3a1;
-    --ctp-yellow: #f9e2af;
-    --ctp-peach: #fab387;
-    --ctp-maroon: #eba0ac;
-    --ctp-red: #f38ba8;
-    --ctp-mauve: #cba6f7;
-    --ctp-pink: #f5c2e7;
-    --ctp-flamingo: #f2cdcd;
-    --ctp-rosewater: #f5e0dc;
+    /* Catppuccin Macchiato palette */
+    --ctp-base: #24273a;
+    --ctp-mantle: #1e2030;
+    --ctp-crust: #181926;
+    --ctp-surface0: #363a4f;
+    --ctp-surface1: #494d64;
+    --ctp-surface2: #5b6078;
+    --ctp-overlay0: #6e738d;
+    --ctp-overlay1: #8087a2;
+    --ctp-overlay2: #939ab7;
+    --ctp-subtext0: #a5adcb;
+    --ctp-subtext1: #b8c0e0;
+    --ctp-text: #cad3f5;
+    --ctp-lavender: #b7bdf8;
+    --ctp-blue: #8aadf4;
+    --ctp-sapphire: #7dc4e4;
+    --ctp-sky: #91d7e3;
+    --ctp-teal: #8bd5ca;
+    --ctp-green: #a6da95;
+    --ctp-yellow: #eed49f;
+    --ctp-peach: #f5a97f;
+    --ctp-maroon: #ee99a0;
+    --ctp-red: #ed8796;
+    --ctp-mauve: #c6a0f6;
+    --ctp-pink: #f5bde6;
+    --ctp-flamingo: #f0c6c6;
+    --ctp-rosewater: #f4dbd6;
 
     --sn-stylekit-theme-type: dark;
-    --sn-stylekit-theme-name: catppuccin-mocha;
+    --sn-stylekit-theme-name: catppuccin-macchiato;
 
     --sn-stylekit-background-color: var(--ctp-base);
     --sn-stylekit-foreground-color: var(--ctp-text);
@@ -85,7 +85,7 @@
     --sn-stylekit-passive-color-1: var(--ctp-overlay1);
     --sn-stylekit-passive-color-3: var(--ctp-surface1);
     --sn-stylekit-passive-color-4: var(--ctp-crust);
-    --sn-stylekit-passive-color-4-opacity-variant: rgba(203, 166, 247, 0.25);
+    --sn-stylekit-passive-color-4-opacity-variant: rgba(198, 160, 246, 0.25);
     --sn-stylekit-passive-color-5: var(--ctp-base);
 
     --sn-desktop-titlebar-bg-color: var(--ctp-crust);
