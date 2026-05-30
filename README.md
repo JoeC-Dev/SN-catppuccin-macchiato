@@ -10,7 +10,7 @@ A dark [Catppuccin Macchiato](https://github.com/catppuccin/catppuccin) theme fo
 4. Paste:
 
 ```text
-https://listed.to/p/y3SJQstFfx
+https://listed.to/p/YlSoqodpsm
 ```
 
 ## Repository Contents
